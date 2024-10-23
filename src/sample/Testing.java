@@ -1,1 +1,4 @@
-String s="Hello"
+package sample;
+class Testing{
+	String s= "Hello";
+}
