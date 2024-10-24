@@ -1,6 +1,6 @@
 package sample;
 
-public class LoginPage {
+public class LoginnPage {
 	int a=10;
 	int b =30;
 	
