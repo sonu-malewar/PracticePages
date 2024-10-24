@@ -5,7 +5,7 @@ public class LoginPage {
 	int b =30;
 	
 	// method name change from add() to sum()
-	public int sum(int a,int b) {
+	public int sumation(int a,int b) {
 		return a+b;
 	}
 	
